@@ -1,6 +1,6 @@
 #include "main.h"
 
-int actual_sqrt_recursion(int n, int i);
+int real_root(int n, int i);
 
 /**
  * _sqrt_recursion - returns the sqrt of the number
