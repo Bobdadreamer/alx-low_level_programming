@@ -1,9 +1,9 @@
 #include <unistd.h>
+
 /**
- * _putchar - waaaa
- * @c: kanda
- *
- * Return: void
+ * _putchar - writes the character c to stdout
+ * @c: char to be printed
+ * Return: 1 on success
  */
 int _putchar(char c)
 {
